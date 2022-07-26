@@ -1,2 +1,3 @@
-# intro-BDT-NN
-This repository will contain all the codes for the introductory hands-on sections
+# ML_Tutorial_BDT_DNN
+
+https://indico.cern.ch/event/1169324/timetable/?view=standard
